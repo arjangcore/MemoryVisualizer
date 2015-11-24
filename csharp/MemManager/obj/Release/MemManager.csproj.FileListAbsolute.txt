@@ -1,5 +1,0 @@
-D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemManager\bin\Release\MemManager.dll
-D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemManager\obj\Release\ResolveAssemblyReference.cache
-D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemManager\obj\Release\MemManager.dll
-D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemManager\bin\Release\Helpers.dll
-D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemManager\bin\Release\Helpers.pdb
