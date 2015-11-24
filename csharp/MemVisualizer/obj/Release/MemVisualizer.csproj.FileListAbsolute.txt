@@ -1,0 +1,13 @@
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\bin\Release\MemVisualizer.exe
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\bin\Release\MemManager.dll
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\obj\Release\ResolveAssemblyReference.cache
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\obj\Release\MemVisualizer.CallStack.resources
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\obj\Release\MemVisualizer.FilterSelector.resources
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\obj\Release\MemVisualizer.GraphicalView.resources
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\obj\Release\MemVisualizer.MemoryGraph.resources
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\obj\Release\MemVisualizer.MainWindow.resources
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\obj\Release\MemVisualizer.csproj.GenerateResource.Cache
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\obj\Release\MemVisualizer.exe
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\bin\Release\Helpers.dll
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\MemVisualizer\bin\Release\Helpers.pdb
+C:\code\Tools\MemVisualizer\csharp\MemVisualizer\obj\Release\MemVisualizer.exe

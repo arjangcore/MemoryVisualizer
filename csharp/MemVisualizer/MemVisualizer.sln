@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemManager", "..\MemManager\MemManager.csproj", "{909F0CBC-B222-486A-B41C-42CEAF5FA85D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemVisualizer", "MemVisualizer.csproj", "{755BB461-11D0-47BA-A3DB-EFCE0D070F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "..\Helpers\Helpers.csproj", "{B4AB47AB-A5C0-44EF-931E-4896AAD18C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909F0CBC-B222-486A-B41C-42CEAF5FA85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909F0CBC-B222-486A-B41C-42CEAF5FA85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909F0CBC-B222-486A-B41C-42CEAF5FA85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909F0CBC-B222-486A-B41C-42CEAF5FA85D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755BB461-11D0-47BA-A3DB-EFCE0D070F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755BB461-11D0-47BA-A3DB-EFCE0D070F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755BB461-11D0-47BA-A3DB-EFCE0D070F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755BB461-11D0-47BA-A3DB-EFCE0D070F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4AB47AB-A5C0-44EF-931E-4896AAD18C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AB47AB-A5C0-44EF-931E-4896AAD18C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AB47AB-A5C0-44EF-931E-4896AAD18C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AB47AB-A5C0-44EF-931E-4896AAD18C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\Helpers\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\Helpers\bin\Debug\Helpers.dll
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\Helpers\bin\Debug\Helpers.pdb
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\Helpers\obj\Debug\Helpers.dll
+D:\projects\buckeye\buckeye\Tools\MemVisualizer\csharp\Helpers\obj\Debug\Helpers.pdb
+C:\code\Tools\MemVisualizer\csharp\Helpers\bin\Debug\Helpers.dll
+C:\code\Tools\MemVisualizer\csharp\Helpers\bin\Debug\Helpers.pdb
+C:\code\Tools\MemVisualizer\csharp\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\code\Tools\MemVisualizer\csharp\Helpers\obj\Debug\Helpers.dll
+C:\code\Tools\MemVisualizer\csharp\Helpers\obj\Debug\Helpers.pdb

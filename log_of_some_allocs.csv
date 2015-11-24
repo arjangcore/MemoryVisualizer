@@ -1,0 +1,29 @@
+<MetricsHeapDump>
+	<Header>
+		<Title>Empty Title</Title>
+		<Version>1.0</Version>
+		<Heap>MFW</Heap>
+		<Description>Empty Description</Description>
+		<Platform>PS3</Platform>
+		<Configuration>Empty Configuration Name</Configuration>
+		<Timestamp>Sat Mar 11 21:58:06 2006</Timestamp>
+	</Header>
+	<DataFields>
+		<Field> <Name>Address</Name> <Type>int</Type> </Field>
+		<Field> <Name>Name</Name> <Type>string</Type> </Field>
+		<Field> <Name>ReqSize</Name> <Type>int</Type> </Field>
+		<Field> <Name>AllocSize</Name> <Type>int</Type> </Field>
+		<Field> <Name>Temporary</Name> <Type>int</Type> </Field>
+		<Field> <Name>Alignment</Name> <Type>int</Type> </Field>
+		<Field> <Name>StackTrace</Name> <Type>string</Type> </Field>
+	</DataFields>
+	<HeapRanges>
+		<Heap><Name>MainSBA</Name><Start>0x20090180</Start><End>0x20190000</End></Heap>
+		<Heap><Name>MainPP</Name><Start>0x20190080</Start><End>0x20b90000</End></Heap>
+	</HeapRanges>
+	<Data><![CDATA[
+0x2018d020,Main::Test2,20,20,0,4, 0x30442c 0x3048a4 0x104c8 0x1025c 0x0 0x0 0x0 0x0
+0x20190640,Main::Test3,2000,2000,0,16, 0x30445c 0x3048a4 0x104c8 0x1025c 0x0 0x0 0x0 0x0
+]]>
+	</Data>
+</MetricsHeapDump>

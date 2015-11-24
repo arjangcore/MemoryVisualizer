@@ -1,0 +1,379 @@
+<MetricsHeapDump>
+	<Header>
+		<Title>MemoryDump</Title>
+		<Version>1.0</Version>
+		<Heap>MemoryFramework</Heap>
+		<Description>Empty Description</Description>
+		<Platform>PS3</Platform>
+		<Configuration>Configuration</Configuration>
+		<Timestamp>timeStamp</Timestamp>
+	</Header>
+	<DataFields>
+		<Field> <Name>Address</Name> <Type>int</Type> </Field>
+		<Field> <Name>Name</Name> <Type>string</Type> </Field>
+		<Field> <Name>ReqSize</Name> <Type>int</Type> </Field>
+		<Field> <Name>AllocSize</Name> <Type>int</Type> </Field>
+		<Field> <Name>Temporary</Name> <Type>int</Type> </Field>
+		<Field> <Name>Alignment</Name> <Type>int</Type> </Field>
+	</DataFields>
+	<HeapRanges>
+		<Heap><Name>LIBMALLOC</Name><Start>0x6b00e570</Start><End>0x768dcbc0</End></Heap>
+	</HeapRanges>
+	<Data><![CDATA[
+0x758f2210,Render::operator new[](),32791,32791,0,16
+0x758dcbc0,Render::ssg_file:ile_mesh_combine_em_lamps01-hl2-2.l1.gtf,87575,87575,0,16
+0x6dc10c80,Render::file:sectionname,64,64,0,16
+0x6dad69e0,Render::file:SSGSection,59,59,0,16
+0x74a120e0,Render::Compress:ZAlloc,9543,9543,0,16
+0x6dc10bc0,Render::opnew/_end/.std::string/.std::string/.SlantResour/.StreamingMa,142,142,0,16
+0x6defd670,Render::opnew/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6defd5f0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6e08e740,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6e08e6a0,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6e070250,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6e070170,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6f2acc00,Render::symbol,48,48,0,16
+0x6f2acba0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6e4ce900,Render::PreloadedFile,31,31,0,16
+0x758b1ff0,Render::ssg_file:stucco_pink_02m_d.c2.gtf,174999,174999,0,16
+0x6e057b90,Render::file:sectionname,48,48,0,16
+0x6e0d29c0,Render::file:SSGSection,59,59,0,16
+0x6ebe8b50,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6e08f140,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6e112260,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6e08f080,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6e1a8e20,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6e1a8dc0,Render::symbol,47,47,0,16
+0x6e0d2a70,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6e1121f0,Render::PreloadedFile,31,31,0,16
+0x75887420,Render::ssg_file:plaster_crumbled.c2.gtf,174999,174999,0,16
+0x6f2acc70,Render::file:sectionname,47,47,0,16
+0x6f2b0520,Render::file:SSGSection,59,59,0,16
+0x6e4ce850,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6e3e6140,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6e3e6230,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6e3e61b0,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6e3dbd90,Render::symbol,49,49,0,16
+0x6e3dbd30,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6f2b04d0,Render::PreloadedFile,31,31,0,16
+0x7585c850,Render::ssg_file:stucco_beige_02t_d.c2.gtf,174999,174999,0,16
+0x6e3b3210,Render::file:sectionname,49,49,0,16
+0x6d4a49d0,Render::file:SSGSection,59,59,0,16
+0x6e5793e0,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6e3dfce0,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6e3dfc20,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6e575f60,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6e575f00,Render::symbol,45,45,0,16
+0x6e5794b0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x72318c10,Render::PreloadedFile,31,31,0,16
+0x75831c80,Render::ssg_file:ground_dirt_02.c2.gtf,174999,174999,0,16
+0x6e4ce950,Render::file:sectionname,45,45,0,16
+0x6da7e330,Render::file:SSGSection,59,59,0,16
+0x6e590230,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6e590190,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6e58f030,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6e58ef50,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6eb5d250,Render::symbol,46,46,0,16
+0x6eb5d1f0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6e74fe30,Render::PreloadedFile,31,31,0,16
+0x758070b0,Render::ssg_file:ground_grass1_d.c2.gtf,174999,174999,0,16
+0x6e576bf0,Render::file:sectionname,46,46,0,16
+0x6e5fb450,Render::file:SSGSection,59,59,0,16
+0x6d4a4a50,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6e7c3640,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6e5fb500,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6e5b2a80,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x746be150,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6e74fdd0,Render::symbol,47,47,0,16
+0x6e74fd20,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6e7c35d0,Render::PreloadedFile,31,31,0,16
+0x757dc4e0,Render::ssg_file:ground_sand_01_d.c2.gtf,174999,174999,0,16
+0x6e7c36c0,Render::file:sectionname,47,47,0,16
+0x6e98dcd0,Render::file:SSGSection,59,59,0,16
+0x746be0e0,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x746bdcf0,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6e98cf30,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x71d73f30,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x746bdc90,Render::symbol,48,48,0,16
+0x746bdc30,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6e98dc80,Render::PreloadedFile,31,31,0,16
+0x757b1910,Render::ssg_file:monu_wall_brick_d.c2.gtf,174999,174999,0,16
+0x71d73e80,Render::file:sectionname,48,48,0,16
+0x6ea953f0,Render::file:SSGSection,59,59,0,16
+0x71bd7b20,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x71bd3540,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x72084c90,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x71bd7660,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x71bd7600,Render::symbol,52,52,0,16
+0x71bd7a70,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x71bd34f0,Render::PreloadedFile,31,31,0,16
+0x75786d40,Render::ssg_file:monu_wall_ancient01_d.c2.gtf,174999,174999,0,16
+0x6e98dd40,Render::file:sectionname,52,52,0,16
+0x6d6bcb40,Render::file:SSGSection,59,59,0,16
+0x717f1610,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x71bd0a20,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x71bd0610,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x71bd0f40,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x71bd0ee0,Render::symbol,44,44,0,16
+0x71bd3450,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6d6bcbb0,Render::PreloadedFile,31,31,0,16
+0x7575c170,Render::ssg_file:monu_ground_d.c2.gtf,174999,174999,0,16
+0x71bd0af0,Render::file:sectionname,44,44,0,16
+0x6d06c590,Render::file:SSGSection,59,59,0,16
+0x6b9f0840,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6d06c200,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6d06a380,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6d06a300,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6d06c1a0,Render::symbol,50,50,0,16
+0x6d0b5ca0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x717f1580,Render::PreloadedFile,31,31,0,16
+0x757315a0,Render::ssg_file:stucco_beige_02b2_d.c2.gtf,174999,174999,0,16
+0x6d06c600,Render::file:sectionname,50,50,0,16
+0x6da7e3f0,Render::file:SSGSection,59,59,0,16
+0x6d0aacd0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6d0aac60,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6d0c05c0,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6d0c6eb0,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6d0c6e30,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6d0c0560,Render::symbol,50,50,0,16
+0x6d0c5240,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x71f66c20,Render::PreloadedFile,31,31,0,16
+0x757069d0,Render::ssg_file:concrete_wall_01b_d.c2.gtf,174999,174999,0,16
+0x6d0c0850,Render::file:sectionname,50,50,0,16
+0x71f66bb0,Render::file:SSGSection,59,59,0,16
+0x71f66b30,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6d0c07e0,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6cb44cc0,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6d0c0770,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6cb4f540,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6d0aa900,Render::symbol,42,42,0,16
+0x6cb44d20,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6eb9c1d0,Render::PreloadedFile,31,31,0,16
+0x756dbe00,Render::ssg_file:roof_tile_d.c2.gtf,174999,174999,0,16
+0x6e4f20b0,Render::file:sectionname,42,42,0,16
+0x6ce3dc50,Render::file:SSGSection,59,59,0,16
+0x717fca40,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6cc96ba0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6d397170,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6ce3d890,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6cb44c50,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6ce3e010,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6cf3c320,Render::symbol,51,51,0,16
+0x6ce3d8f0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6eb930a0,Render::PreloadedFile,31,31,0,16
+0x756b1230,Render::ssg_file:ground_sidewalk_01_d.c2.gtf,174999,174999,0,16
+0x6ce3dcc0,Render::file:sectionname,51,51,0,16
+0x6e4f2130,Render::file:SSGSection,59,59,0,16
+0x6ce3d810,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6ce3d010,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6cc96b40,Render::opnew/g_nullFragme/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6eb9c260,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6cc96ae0,Render::symbol,38,38,0,16
+0x6ce3d0a0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6eb930f0,Render::PreloadedFile,31,31,0,16
+0x7569bbe0,Render::ssg_file:trash_d.c1.gtf,87575,87575,0,16
+0x6eb649a0,Render::file:sectionname,38,38,0,16
+0x7160b840,Render::file:SSGSection,59,59,0,16
+0x717ddca0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6cc96f80,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6bcaf100,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6eb5e1c0,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6ccb6cc0,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6ccb6c40,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6bcaf0a0,Render::symbol,49,49,0,16
+0x6e71d3a0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x7160b7f0,Render::PreloadedFile,31,31,0,16
+0x75671010,Render::ssg_file:stucco_whiteb_02_d.c2.gtf,174999,174999,0,16
+0x6eb5e160,Render::file:sectionname,49,49,0,16
+0x6e9778a0,Render::file:SSGSection,59,59,0,16
+0x6e3e7610,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6e3e7590,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6ce3d410,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6ce3c010,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6cbc2e10,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6ce3e480,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6ce3e410,Render::symbol,54,54,0,16
+0x6ce3d480,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6e977850,Render::PreloadedFile,31,31,0,16
+0x75646440,Render::ssg_file:door_woodstonearch_01_d.c2.gtf,174999,174999,0,16
+0x6ce3bfa0,Render::file:sectionname,54,54,0,16
+0x7161fe60,Render::file:SSGSection,59,59,0,16
+0x6cbc31b0,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6ce3bc60,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6cbc17c0,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6cbc3220,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6ce3bbf0,Render::symbol,54,54,0,16
+0x6e9311c0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x71621c40,Render::PreloadedFile,31,31,0,16
+0x7563b870,Render::ssg_file:door_woodstonearch_01_n.n2.gtf,43927,43927,0,16
+0x6caf5b40,Render::file:sectionname,54,54,0,16
+0x7160b8b0,Render::file:SSGSection,59,59,0,16
+0x6cce4360,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6cce42f0,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6e931160,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6cb04bd0,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6cafe8f0,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6cafe890,Render::symbol,47,47,0,16
+0x71621c90,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6f175770,Render::PreloadedFile,31,31,0,16
+0x75610ca0,Render::ssg_file:windows_mosque_d.c2.gtf,174999,174999,0,16
+0x6cca3fe0,Render::file:sectionname,47,47,0,16
+0x6eb5e220,Render::file:SSGSection,59,59,0,16
+0x6cca3f60,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6caebd10,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6ca6d680,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6ccb7100,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6ccb7040,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6ccdd7b0,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6e867c30,Render::symbol,50,50,0,16
+0x6e867bd0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x7161fed0,Render::PreloadedFile,31,31,0,16
+0x755e60d0,Render::ssg_file:stucco_white_01b1_d.c2.gtf,174999,174999,0,16
+0x6bb24670,Render::file:sectionname,50,50,0,16
+0x6ca6d5e0,Render::file:SSGSection,59,59,0,16
+0x6f1757c0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6be01130,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6cc94030,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6cca3c20,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6bb245b0,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6cc940a0,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6cca3bc0,Render::symbol,48,48,0,16
+0x6cca3b60,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6be010e0,Render::PreloadedFile,31,31,0,16
+0x755bb500,Render::ssg_file:stucco_beige_02_d.c2.gtf,174999,174999,0,16
+0x6e867820,Render::file:sectionname,48,48,0,16
+0x6d2bba60,Render::file:SSGSection,59,59,0,16
+0x6bd259b0,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6be2f610,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6bcafe60,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6bcafde0,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6be2f5b0,Render::symbol,46,46,0,16
+0x6be2f550,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x71606ca0,Render::PreloadedFile,31,31,0,16
+0x75590930,Render::ssg_file:decal_curb_06_d.c1.gtf,174999,174999,0,16
+0x6bb69bc0,Render::file:sectionname,46,46,0,16
+0x7161ff20,Render::file:SSGSection,59,59,0,16
+0x6eb648e0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6bc9d6a0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6bb69b60,Render::opnew/g_nullFragme/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6bb6aef0,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6bb69b00,Render::symbol,39,39,0,16
+0x71606d50,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6e5f5110,Render::PreloadedFile,31,31,0,16
+0x75565d60,Render::ssg_file:grime_01.c2.gtf,174999,174999,0,16
+0x6e4ca230,Render::file:sectionname,39,39,0,16
+0x6bc9d740,Render::file:SSGSection,59,59,0,16
+0x6bb6ae70,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6b9c2420,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6b894dc0,Render::opnew/g_nullFragme/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6b9c2390,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6b894d60,Render::symbol,38,38,0,16
+0x70e8f240,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6e4f4c80,Render::PreloadedFile,31,31,0,16
+0x74981950,Render::ssg_file:spec_01.c2.gtf,2967,2967,0,16
+0x6cce3f40,Render::file:sectionname,38,38,0,16
+0x6e4ca2b0,Render::file:SSGSection,59,59,0,16
+0x6dab2350,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x706f69f0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6da757e0,Render::opnew/g_nullFragme/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x706f6a80,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6da75780,Render::symbol,38,38,0,16
+0x6e4f4cd0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6cce3ef0,Render::PreloadedFile,31,31,0,16
+0x7553b190,Render::ssg_file:garbage.c2.gtf,174999,174999,0,16
+0x6f35e190,Render::file:sectionname,38,38,0,16
+0x6e98e430,Render::file:SSGSection,59,59,0,16
+0x6e3e1670,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6e3e1610,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6ccaf860,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6ccb8820,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6daa2b50,Render::symbol,40,40,0,16
+0x6daa2af0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6f35e140,Render::PreloadedFile,31,31,0,16
+0x755385c0,Render::ssg_file:fabric_v3.c2.gtf,11159,11159,0,16
+0x6cceb300,Render::file:sectionname,40,40,0,16
+0x70e8f2a0,Render::file:SSGSection,59,59,0,16
+0x6bd07020,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6bd06fa0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x685c4f20,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6b903fa0,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6be31590,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6d084100,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6b903f40,Render::symbol,40,40,0,16
+0x685c4ec0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6eb956b0,Render::PreloadedFile,31,31,0,16
+0x7552d9f0,Render::ssg_file:wood_side.c2.gtf,43927,43927,0,16
+0x6e3e16e0,Render::file:sectionname,40,40,0,16
+0x6e3e1070,Render::file:SSGSection,59,59,0,16
+0x6e98e4a0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6da73e90,Render::opnew/g_nullFragme/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x70e2cce0,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6e3e10f0,Render::symbol,39,39,0,16
+0x70deb5f0,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6e3e0c80,Render::PreloadedFile,31,31,0,16
+0x7552ae20,Render::ssg_file:bridge_n.n2.gtf,11159,11159,0,16
+0x6e3e0d50,Render::file:sectionname,39,39,0,16
+0x6daa2bb0,Render::file:SSGSection,59,59,0,16
+0x6e3e0cd0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x71930f60,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x7160b020,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6ebcc950,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6ebcc8e0,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6e7c3160,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6e8922e0,Render::symbol,45,45,0,16
+0x6e892280,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x6b8f1ef0,Render::PreloadedFile,31,31,0,16
+0x75500250,Render::ssg_file:roof_tile_02_d.c2.gtf,174999,174999,0,16
+0x6d2e1fb0,Render::file:sectionname,45,45,0,16
+0x70e2cda0,Render::file:SSGSection,59,59,0,16
+0x6bafe570,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6e3e7200,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6e592520,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6e5924b0,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6e4cacb0,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6e3e71a0,Render::symbol,47,47,0,16
+0x6e3edc80,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x70deb6b0,Render::PreloadedFile,31,31,0,16
+0x754aac00,Render::ssg_file:windowsheet_01_d.c1.gtf,349719,349719,0,16
+0x6d2e1f50,Render::file:sectionname,47,47,0,16
+0x7065b940,Render::file:SSGSection,59,59,0,16
+0x6da81b20,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6c745430,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x7178cb40,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6da73dd0,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6e15cec0,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6c6e9230,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6da753d0,Render::symbol,47,47,0,16
+0x6da73e30,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x7065b9b0,Render::PreloadedFile,31,31,0,16
+0x754a0030,Render::ssg_file:windowsheet_01_n.n2.gtf,43927,43927,0,16
+0x6e3edd50,Render::file:sectionname,47,47,0,16
+0x6eb95700,Render::file:SSGSection,59,59,0,16
+0x71bcefc0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x71ac90f0,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6e3e7bb0,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6bb442a0,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6d38d970,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6d6b75c0,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6bb44240,Render::symbol,51,51,0,16
+0x71936a50,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x719393a0,Render::PreloadedFile,31,31,0,16
+0x75475460,Render::ssg_file:decal_grafitti4faded.c1.gtf,174999,174999,0,16
+0x71939340,Render::file:sectionname,51,51,0,16
+0x7065ba00,Render::file:SSGSection,59,59,0,16
+0x6d369750,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x70e2b720,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+0x6ce002b0,Render::opnew/_end/.std::string/.std::basic_/.StreamingMa/_end,55,55,0,16
+0x6ca3c150,Render::opnew/.operator de/.SlantResour/.StreamingMa/_end,47,47,0,16
+0x6d312480,Render::opnew/FwMemDebug::/.std::string/.std::basic_/.SlantResour/.StreamingMa,55,55,0,16
+0x6fd32800,Render::static FwResource* SlantResourceManager::FindResourceHandler(const char*; bool),79,79,0,16
+0x6b8f1e90,Render::symbol,44,44,0,16
+0x6cecd460,Render::opnew/.FwMemDebug:/.std::_Tree</.std::map<Sl/.Slant::File/.Slant::SSGF,51,51,0,16
+0x71b3d050,Render::PreloadedFile,31,31,0,16
+0x7546a890,Render::ssg_file:concrete_02_s.c2.gtf,43927,43927,0,16
+0x6d2da400,Render::file:sectionname,44,44,0,16
+0x6da70870,Render::file:SSGSection,59,59,0,16
+0x71759730,Render::opnew/_end/.std::string/.std::string/.StreamingMa/_end,71,71,0,16
+]]>
+	</Data>
+</MetricsHeapDump>

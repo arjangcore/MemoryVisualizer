@@ -1,0 +1,29 @@
+<MetricsHeapDump>
+	<Header>
+		<Title>MemoryDump</Title>
+		<Version>1.0</Version>
+		<Heap>MemoryFramework</Heap>
+		<Description>Empty Description</Description>
+		<Platform>PS3</Platform>
+		<Configuration>Configuration</Configuration>
+		<Timestamp>timeStamp</Timestamp>
+	</Header>
+	<DataFields>
+		<Field> <Name>Address</Name> <Type>int</Type> </Field>
+		<Field> <Name>Name</Name> <Type>string</Type> </Field>
+		<Field> <Name>ReqSize</Name> <Type>int</Type> </Field>
+		<Field> <Name>AllocSize</Name> <Type>int</Type> </Field>
+		<Field> <Name>Temporary</Name> <Type>int</Type> </Field>
+		<Field> <Name>Alignment</Name> <Type>int</Type> </Field>
+	</DataFields>
+	<HeapRanges>
+		<Heap><Name>LIBMALLOC</Name><Start>0x20190640</Start><End>0x71e73110</End></Heap>
+	</HeapRanges>
+	<Data><![CDATA[
+0x6d9780d0,LIBMALLOC::opnew/_end/.std::string/.std::basic_/.std::basic_/.Slant::SSGS,87,87,0,16
+0x71e73110,LIBMALLOC::sectionname,64,64,0,16
+0x2018d020,LIBMALLOC::Test2,20,20,0,4
+0x20190640,LIBMALLOC::Test3,2000,2000,0,16
+]]>
+	</Data>
+</MetricsHeapDump>
